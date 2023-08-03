@@ -26,7 +26,7 @@ export const Filter = () => {
 };
 
 Filter.propTypes = {
-  changeFilterInput: PropTypes.func,
+  onChangeFilter: PropTypes.func,
 };
 
 
